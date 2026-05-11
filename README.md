@@ -2,8 +2,9 @@
 
 Welcome to my GIS portfolio, which contains work from my time with the Georgia Department of Transportation
 # About me
-My name is Ryan, I graduated from Georgia State University with a Bachelors in geoscience and a concentration in environmental geoscience. I live in Atlanta, Georgia and currently work for the Georgia Department of Transportation as a GIS Analyst 3. 
+My name is Ryan, I graduated from Georgia State University with a Bachelors in geoscience and a concentration in environmental geoscience. I live in Atlanta, Georgia and currently work for the Georgia Department of Transportation as a GIS Analyst 3. I am interested in leveraging today's geospatial technology to work on tomorrow's transportation and environmental problems 
 
+· Data Analysis · Geographic Information Systems (GIS) · python · Remote Sensing · ArcGIS · QGIS 
 
 
 **Contact Me**
