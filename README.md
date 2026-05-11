@@ -27,4 +27,4 @@ Email: rtmorgan67@gmail.com
 
 
 
-[![Lee_Preview](images/LeeScreenshot)](images/Lee_2025.pdf)
+[![Lee_Preview](images/LeeScreenshot.png)](images/Lee_2025.pdf)
