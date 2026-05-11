@@ -5,4 +5,6 @@ Welcome to my GIS portfolio, which contains work from my time with the Georgia D
 My name is Ryan, I graduated from Georgia State University with a Bachelors in geoscience and a concentration in environmental geoscience. I live in Atlanta, Georgia and currently work for the Georgia Department of Transportation as a GIS Analyst 3. 
 
 
+Contact me on my LinkedIn profile: www.linkedin.com/in/ryan-morgan1738/
+
 ![portrait](images/PhilmontPic.jpg)
