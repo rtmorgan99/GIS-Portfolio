@@ -21,7 +21,8 @@ Email: rtmorgan67@gmail.com
 
 
 **County Maps**
-I first started creating county maps for each county in the state. These contained point symbols of public services like firestations, hospitals, law enforcement etc.
+
+ My first responsibility was creating county maps for each county in the state. These contained point symbols of public services like firestations, hospitals, law enforcement etc.
 
 
 
