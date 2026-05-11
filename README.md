@@ -41,7 +41,7 @@ Similar to county maps, GDOT creates official city maps for every city in Georgi
 
 **State Route Revisions**
 
-With the help of my small team, I developed new workflows for maintaining and updating any changes to Georgia's State Route Network. This process begins with either a request from a municipality, or an order from the commissioner of GDOT. It is my team's duty to create before, during, and after maps that are added to a legal document to be approved by the commissioner and municipality leaders. This work is critical as road mileage count has direct impact on city, county, and state budgets.
+With the help of my small team, I developed new workflows for maintaining and updating any changes to Georgia's State Route Network. This process begins with either a request from a municipality, or an order from the commissioner of GDOT. It is my team's duty to create before, during, and after maps that are added to legal documentation to be approved by the commissioner and municipality leaders. This work is critical as road mileage count has direct impact on city, county, and state budgets.
 
 
 
