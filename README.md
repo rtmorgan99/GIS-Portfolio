@@ -18,3 +18,11 @@ Email: rtmorgan67@gmail.com
 
 
 # Projects
+
+
+**County Maps**
+I first started creating county maps for each county in the state. These contained point symbols of public services like firestations, hospitals, law enforcement etc.
+
+
+
+![Lee](images/Lee_2025.pdf)
