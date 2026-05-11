@@ -23,7 +23,7 @@ Email: rtmorgan67@gmail.com
 
 **County Maps**
 
- My first responsibility was creating county maps for each county in the state. These contained point symbols of public services like firestations, hospitals, law enforcement etc.
+ My first responsibility was creating county maps for each county in the state. These contained point symbols of public services like firestations, hospitals, law enforcement etc. These maps are printed and delivered to the counties on three year cycles. These maps are critical for GDOT's internal communication and planning.
 
 
 
