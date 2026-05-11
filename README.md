@@ -8,6 +8,7 @@ My name is Ryan, I graduated from Georgia State University with a Bachelors in g
 
 # Contact me
 LinkedIn profile: www.linkedin.com/in/ryan-morgan1738/
+
 Email: rtmorgan67@gmail.com
 
 
